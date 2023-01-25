@@ -1,6 +1,5 @@
 ---
 title: Privacy Policy
-layout: template
 filename: PrivacyPolicy.md
 --- 
 <h2>Privacy Policy</h2>
