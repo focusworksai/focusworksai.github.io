@@ -1,3 +1,8 @@
+---
+title: Privacy Policy
+layout: template
+filename: PrivacyPolicy.md
+--- 
 <h2>Privacy Policy</h2>
 <p>Last updated: January 25, 2023</p>
 <p>Your privacy is important to us. This privacy policy applies to applications/services/platform provided by Augmentech Ltd.It is Augmentech Ltd's policy to respect your privacy regarding any information we may collect from you through our app, Focusworks AI.</p>
