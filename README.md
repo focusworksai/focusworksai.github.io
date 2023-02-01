@@ -34,7 +34,7 @@ And to make it even easier, you can view all of your recently created summaries 
 ![Dashboard](/assets/dashboard.png)
 
 
-# Contact Augmentech Ltd
+## Contact Augmentech Ltd
 
 Augmentech Ltd is a provider of consultancy services and products for Microsoft 365, Microsoft Teams and Azure platforms. Get in touch with us at [contact@augmentech.co.uk](mailto:contact@augmentech.co.uk) to know more.
 
