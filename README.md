@@ -11,7 +11,7 @@ And to make it even easier, you can view all of your recently created summaries 
 
 ## Upload documents to the chat bot to summarize them
 
-![Upload document](/assets/document.png)
+![Upload document](/assets/1document.png)
 
 ## Ask the chat bot to directly summarize a piece of text
 
@@ -19,11 +19,11 @@ And to make it even easier, you can view all of your recently created summaries 
 
 ## Click on the **three dots** next to any message, then **More actions** and select **Summarize message**
 
-![Summarize teams message](/assets/messageaction.png)
+![Summarize teams message](/assets/2messageaction.png)
 
 ## View the AI generated summary with the important points highlighted for you
 
-![Summary](/assets/taskmodule.png)
+![Summary](/assets/3taskmodule.png)
 
 ## Post generated summaries to the Team or group chats for your collegues
 
@@ -31,7 +31,7 @@ And to make it even easier, you can view all of your recently created summaries 
 
 ## View your latest summaries in your Personal Dashboard
 
-![Dashboard](/assets/dashboard.png)
+![Dashboard](/assets/5dashboard.png)
 
 
 ## Contact Augmentech Ltd
