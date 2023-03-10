@@ -8,16 +8,17 @@ With our summaries, you can easily stay informed and on top of your work. Plus, 
 
 And to make it even easier, you can view all of your recently created summaries on your dashboard and quickly jump to the original Teams messages. With Focusworks AI, you can consume information efficiently and stay on top of your work. Say goodbye to information overload and hello to a more organized and productive workflow.
 
+<a href="https://appsource.microsoft.com/en-us/product/office/WA200005115?src=website"><img src="/assets/MS_AppSource.png"></img></a>
 
-## Upload documents to the chat bot to summarize them
+## To summarize a personal or a group chat, click on the **three dots** next to the componse box, and then on **Focusworks AI**
 
-![Upload document](/assets/1document.png)
+![Summarize recent chat](/assets/7summarizchatcompose.png)
 
-## Ask the chat bot to directly summarize a piece of text
+You can also click on the **three dots** next to any message, then **More actions** and select **Summarize recent chat**
 
-![Summarize text](/assets/text.png)
+![Summarize recent chat](/assets/6summarizechats.png)
 
-## Click on the **three dots** next to any message, then **More actions** and select **Summarize message**
+## To summarize a single message, click on the **three dots** next to any message, then **More actions** and select **Summarize message**
 
 ![Summarize teams message](/assets/2messageaction.png)
 
@@ -28,6 +29,14 @@ And to make it even easier, you can view all of your recently created summaries 
 ## Post generated summaries to the Team or group chats for your collegues
 
 ![Post to Teams](/assets/posttoteams.png)
+
+## Upload documents to the chat bot to summarize them
+
+![Upload document](/assets/1document.png)
+
+## Ask the chat bot to directly summarize a piece of text
+
+![Summarize text](/assets/text.png)
 
 ## View your latest summaries in your Personal Dashboard
 
