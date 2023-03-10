@@ -8,7 +8,7 @@ With our summaries, you can easily stay informed and on top of your work. Plus, 
 
 And to make it even easier, you can view all of your recently created summaries on your dashboard and quickly jump to the original Teams messages. With Focusworks AI, you can consume information efficiently and stay on top of your work. Say goodbye to information overload and hello to a more organized and productive workflow.
 
-<a href="https://appsource.microsoft.com/en-us/product/office/WA200005115?src=website"><img src="/assets/MS_AppSource.png"></img></a>
+<a href="https://appsource.microsoft.com/en-us/product/office/WA200005115?src=website"><img src="/assets/MS_AppSource.png" /></a>
 
 ## To summarize a personal or a group chat, click on the **three dots** next to the componse box, and then on **Focusworks AI**
 
