@@ -1,16 +1,34 @@
-# Focusworks AI
+# Focusworks AI - your personal productivity assistant inside Microsoft Teams!
 
 Are you feeling overwhelmed by the amount of activity on Microsoft Teams? Too many messages and documents to keep track of? Don't worry, we've got you covered.
 
-Focusworks AI can help you filter out the unnecessary information and focus on what's important. Our AI can summarize your Teams messages, highlighting the most important information for you. It can also summarize documents that are uploaded to the chatbot.
+Focusworks AI can help you filter out the unnecessary information and focus on what's important. 
 
-With our summaries, you can easily stay informed and on top of your work. Plus, you can share the summaries with your colleagues by posting them to Teams channels and group chats.
+Our ChatGPT powered AI can help you write more effective Teams messages as it is designed specifically to enhance the quality of your text.
 
-And to make it even easier, you can view all of your recently created summaries on your dashboard and quickly jump to the original Teams messages. With Focusworks AI, you can consume information efficiently and stay on top of your work. Say goodbye to information overload and hello to a more organized and productive workflow.
+Our AI can also summarize your Teams messages, highlighting the most important information for you. It can also summarize documents that are uploaded to the chatbot.
+
+Easily share your generated text and summaries to colleagues by posting them to Teams channels and group chats!
+
+And to make it even easier, you can view all of your recently created content on your dashboard and quickly jump to the relevant chat or channel in Teams.
+
+With Focusworks AI, you can create and consume information efficiently and stay on top of your work. Say goodbye to information overload and hello to a more organized and productive workflow!
 
 <a href="https://appsource.microsoft.com/en-us/product/office/WA200005115?src=website"><img src="/assets/MS_AppSource.png" alt="Get Focusworks AI from Microsoft AppSource" title="Get Focusworks AI from Microsoft AppSource" /></a>
 
-## To summarize a personal or a group chat, click on the **three dots** next to the componse box, and then on **Focusworks AI**
+## To write a new message with AI, click on **three dots** in the compose box, then on **Focusworks AI** and then on **Writing assistant**
+
+![Writing assitant in Teams](/assets/7summarizchatcompose.png)
+
+![Writing assitant pop up in Teams](/assets/11composwritetaskmodule.png)
+
+## To reply to a message with AI generated text, click on the three dots next to any message, then more actions and then Writing assistant
+
+![Reply to message with AI](/assets/9writemsgext.png)
+
+![Reply to message with AI pop up in Teams](/assets/10writemsgtaskmodule.png)
+
+## To summarize a personal or a group chat, click on the **three dots** next to the componse box, then on **Focusworks AI** and then **Summarize recent chat**
 
 ![Summarize recent chat](/assets/7summarizchatcompose.png)
 
