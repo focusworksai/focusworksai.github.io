@@ -40,3 +40,15 @@
 - **Respect for M365 Permissions:** The agent respects your existing Microsoft 365 permissions. Users can only access the data they’re authorized to see.
 
 - **Your Data Stays Yours:** Your content remains under your control, inside your tenant, with **zero vendor lock-in or data leakage risk**.
+
+## ✨ Quick Comparison
+
+| Feature             | Focusworks AI Agent        | DIY Copilot Studio Agent            |
+|---------------------|-----------------------------|--------------------------------------|
+| Cost to Build       | $0 (pre-built solution)     | High (consultant/dev hours)          |
+| Deployment time     | Minutes                     | Weeks+                               |
+| Cost to Run         | Flat annual fee             | Ongoing maintenance + Unpredictable Pay as you go Azure billing costs    |
+| Data retention      | None                        | Varies                               |
+| Expertise needed    | None                        | High                                 |
+| Support included    | ✅                          | ❌                                   |
+
